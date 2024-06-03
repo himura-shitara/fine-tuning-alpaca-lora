@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="shitara@10.229.59.203:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="shitara@10.229.59.203:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/shitara/LLM/fine-tuning-alpaca-lora" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
