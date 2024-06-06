@@ -26,7 +26,7 @@ def train(
     # model/data params
     base_model: str = "meta-llama/Llama-2-70b-hf",
     data_path: str = "/home/shitara/LLM/fine-tuning-alpaca-lora/fine-tuning_data_3opinion_1.json",
-    output_dir: str = "/home/shitara/LLM/fine-tuning-alpaca-lora/fine-tuning_data_3opinion_1",
+    output_dir: str = "/home/shitara/LLM/fine-tuning-alpaca-lora/fine-tuning_data_3opinion_1_240702",
     # train hyperparams
     batch_size: int = 64,
     micro_batch_size: int = 1,
